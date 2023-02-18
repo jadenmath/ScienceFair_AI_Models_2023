@@ -5,3 +5,5 @@ shape_predictor_68_face_landmarks.dat
 pureX.npy
 emo-detection-model.joblib
 dataY.npy
+best_cnn_model.h5
+best_cnn_model2.h5
